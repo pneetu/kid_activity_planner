@@ -3,5 +3,5 @@ This project demonstrates how lightweight agent logic, tool usage, and a simple 
 Core Technologies : Python 3, Streamlit – lightweight UI framework for Python apps
 Development Tools : VS Code, Python virtual environment (venv), Git & GitHub
 
-Link : https://kid-activity-planner.streamlit.app
+Link : [https://kid-activity-planner.streamlit.app](https://kidactivityplanner-gqzczxrb6myrprg4pf47et.streamlit.app/)
 
